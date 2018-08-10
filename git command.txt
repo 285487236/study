@@ -1,0 +1,2 @@
+delete all file in branch:
+git ls-files -z | xargs -0 rm -f [filename]
